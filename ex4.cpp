@@ -1,6 +1,7 @@
 #include <conio.h>
 #include <stdio.h>
 #include <locale.h>
+// CHOKYTO PRIMEIRA MUDANÇA 1
 
 main(){	setlocale(LC_ALL,	"Portuguese");
 		int num,i=0,soma=0,maior=0,menor=0,ip=0;
