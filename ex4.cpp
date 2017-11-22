@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <locale.h>
 // CHOKYTO PRIMEIRA MUDANÇA 1
-
+// CHOKYTO SEGUNDA ALTERAÇÃO 2
 main(){	setlocale(LC_ALL,	"Portuguese");
 		int num,i=0,soma=0,maior=0,menor=0,ip=0;
 		float media=0,res=0;
