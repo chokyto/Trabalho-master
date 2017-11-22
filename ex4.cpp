@@ -15,7 +15,8 @@ main(){	setlocale(LC_ALL,	"Portuguese");
 				if(res==0){
 					ip++;
 				}
-				if(i==0){
+										//Alan Mudando a primeira vez, MEUUU QUERIIOOOOO
+				if(i==0){				//Alan Minha segunda mudança, pq a primeira foi izi pizi
 					maior=num;							
 					menor=num;
 				}else{
